@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Multilanguage</string>
+    <string name="howyourdoing">How are you doing?</string>
+    <string name="welcome">Welcome</string>
+</resources>
